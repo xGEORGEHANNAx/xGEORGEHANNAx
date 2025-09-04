@@ -1,4 +1,4 @@
-<h1 align="center"style="color:#6A42B0; > you are welcome </h1>
+<h1 align="centerstyle="color:#6A42B0;" > you are welcome </h1>
 
 ###
 
