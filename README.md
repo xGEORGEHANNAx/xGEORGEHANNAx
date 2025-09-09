@@ -62,3 +62,23 @@
 </div>
 
 ###
+
+# 📦 Product Management Page  
+
+A simple *CRUD project* for product management built with *HTML, CSS, and JavaScript*.  
+
+## 🚀 Live Demo  
+👉 [View the site](https://product-gh-demo.netlify.app/)  
+
+## ✨ Features  
+- Add, update, and delete products  
+- Calculate total price with taxes, ads, and discounts  
+- Responsive and clean UI  
+
+## 🛠 Technologies Used  
+- *HTML5*  
+- *CSS3*  
+- *JavaScript (ES6)*  
+
+## 📂 Project Structure
+
