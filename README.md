@@ -80,5 +80,4 @@ A simple *CRUD project* for product management built with *HTML, CSS, and JavaSc
 - *CSS3*  
 - *JavaScript (ES6)*  
 
-## 📂 Project Structure
 
