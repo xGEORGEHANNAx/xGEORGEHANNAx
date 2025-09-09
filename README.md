@@ -2,9 +2,6 @@
 
 ###
 
-<h3 align="center">i am George Hanna</h3>
-
-###
 
 <div align="center">
   <img height="283" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3N5a3YwcW81Zjl4anRvbWNmNzljYzllZGc5cnRzdzZreXc0bmJwNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif"  />
