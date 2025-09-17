@@ -69,7 +69,8 @@ A simple *CRUD project* for product management built with *HTML, CSS, and JavaSc
 
 ## ✨ Features  
 - Add, update, and delete products  
-- Calculate total price with taxes, ads, and discounts  
+- Calculate total price with taxes, ads, and discounts
+- 
 - Responsive and clean UI  
 
 ## 🛠 Technologies Used  
@@ -77,4 +78,5 @@ A simple *CRUD project* for product management built with *HTML, CSS, and JavaSc
 - *CSS3*  
 - *JavaScript (ES6)*  
 
-
+## PROJECTS
+- proj-1 (https://xgeorgehannax.github.io/coding-projects/proj-1/)
