@@ -79,4 +79,4 @@ A simple *CRUD project* for product management built with *HTML, CSS, and JavaSc
 - *JavaScript (ES6)*  
 
 ## 🖥️ PROJECTS
-- proj-1 (https://app.netlify.com/projects/proj-1-heart/deploys)
+- proj-1 (https://proj-1-heart.netlify.app/)
