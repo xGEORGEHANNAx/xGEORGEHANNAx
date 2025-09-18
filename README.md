@@ -79,7 +79,7 @@ A simple *CRUD project* for product management built with *HTML, CSS, and JavaSc
 - *JavaScript (ES6)*  
 
 ## 🖥️ PROJECTS                                                                  
-- proj-1-HEART (https://proj-1-heart1.netlify.app/)                             
-- proj-2-HEART (https://proj-2heart2.netlify.app/)
-- proj-3-HEART (https://proj-3heart3.netlify.app/)
-- proj-4-UHR   (https://neon-digital-uhr-by-georgehanna.netlify.app/)
+- proj-1-HEART   (https://proj-1-heart1.netlify.app/)                             
+- proj-2-HEART   (https://proj-2heart2.netlify.app/)
+- proj-3-HEART   (https://proj-3heart3.netlify.app/)
+- proj-4-UHR     (https://neon-digital-uhr-by-georgehanna.netlify.app/)
